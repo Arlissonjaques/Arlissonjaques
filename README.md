@@ -1,5 +1,9 @@
-### Hi there 👋
+## Seja muito bem-vindo(a)!
+---
 
+Olá, meu nome é __Arlisson Jaques__, sou um desenvolvedor iniciante viciado em aprender! Meu foco principal é o __BACK-AND__, mas topo tudo que possa me desafiar,
+abaixo você pode conferir alguns dos meus projetos pessoais e alguns repositório de estudos. Fique a vontade para mandar seu PR! 
+Vamos codar!!!
 <!--
 **Arlissonjaques/Arlissonjaques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
