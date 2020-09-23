@@ -1,20 +1,22 @@
-## Seja muito bem-vindo(a)!
----
+## Hi, welcome!:octocat:
 
-Olá, meu nome é __Arlisson Jaques__, sou um desenvolvedor iniciante viciado em aprender! Meu foco principal é o __BACK-AND__, mas topo tudo que possa me desafiar,
-abaixo você pode conferir alguns dos meus projetos pessoais e alguns repositório de estudos. Fique a vontade para mandar seu PR! 
-Vamos codar!!!
-<!--
-**Arlissonjaques/Arlissonjaques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
+I knew programming by case, and today i am passionate:heartbeat: about everything that comes from 
+this world.:earth_americas: I think that just like everyone at the 
+beginning already learn a little of everything:exclamation:</p>
 
-Here are some ideas to get you started:
+But currently my focus is:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+</p>
+
+Reach me out :arrow_down:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://""/)](https://www.linkedin.com/in/idylicaro/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"")](mailto:idylicaro.se@gmail.com)
