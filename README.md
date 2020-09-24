@@ -1,6 +1,11 @@
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/145/145664.svg"></img>
 
 
+
+
+
+
+
 <p align="center">
 My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
 I knew programming by case, and today i am passionate:heartbeat: about everything that comes from 
@@ -23,6 +28,10 @@ beginning already learn a little of everything:exclamation:</p>
 <p align="center">
 <a href="https://br.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logo"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img></a>
 <a href="https://gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail" width="40" height="40"></img></a>
-</p>
+</p><br><br>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true&theme=tokyonight" alt="Arlissonjaques" /></p>
+
 
 
