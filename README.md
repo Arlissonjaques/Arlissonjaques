@@ -31,7 +31,7 @@ beginning already learn a little of everything:exclamation:</p>
 </p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true&theme=tokyonight" alt="Arlissonjaques" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true" alt="Arlissonjaques" /></p>
 
 
 
