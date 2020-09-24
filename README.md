@@ -2,7 +2,7 @@
 <!-- # Hi, welcome!:octocat: -->
 <img align="center" src="https://casalmasah.com/wp-content/uploads/2019/10/Welcome-Banner.jpg"></img><br>
 
-<img align="center" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"></img>
+<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/145/145664.svg"></img>
 
 
 <p align="center">
