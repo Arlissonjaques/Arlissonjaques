@@ -11,7 +11,7 @@ I knew programming by case, and today i am passionate:heartbeat: about everythin
 this world.:earth_americas: I think that just like everyone at the 
 beginning already learn a little of everything:exclamation:</p>
 
-But currently my focus is:
+<p align="center">But currently my focus is:</p>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -22,7 +22,7 @@ But currently my focus is:
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
 </p>
 
-Reach me out :arrow_down:
+<p align="center">Reach me out :arrow_down:</p>
 
 <p align="center">
 <a href="https://br.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logo"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img></a>
