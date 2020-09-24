@@ -4,8 +4,8 @@
 
 <img align="center" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"></img>
 
-<div align="center">
-<p>
+
+<p align="center">
 My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
 I knew programming by case, and today i am passionate:heartbeat: about everything that comes from 
 this world.:earth_americas: I think that just like everyone at the 
@@ -29,4 +29,4 @@ Reach me out :arrow_down:
 <a href="https://gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail" width="40" height="40"></img></a>
 </p>
 
-</div>
+
