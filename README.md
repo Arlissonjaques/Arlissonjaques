@@ -1,6 +1,8 @@
 
 <!-- # Hi, welcome!:octocat: -->
-<img src="https://casalmasah.com/wp-content/uploads/2019/10/Welcome-Banner.jpg"></img>
+<img align="center" src="https://casalmasah.com/wp-content/uploads/2019/10/Welcome-Banner.jpg"></img><br>
+
+<img align="center" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"></img>
 
 <div align="center">
 <p>
@@ -11,7 +13,7 @@ beginning already learn a little of everything:exclamation:</p>
 
 But currently my focus is:
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
@@ -22,7 +24,9 @@ But currently my focus is:
 
 Reach me out :arrow_down:
 
+<p align="center">
 <a href="https://br.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logo"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img></a>
 <a href="https://gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail" width="40" height="40"></img></a>
+</p>
 
 </div>
