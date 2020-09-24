@@ -2,6 +2,7 @@
 <!-- # Hi, welcome!:octocat: -->
 <img src="https://casalmasah.com/wp-content/uploads/2019/10/Welcome-Banner.jpg"></img>
 
+<div align="center">
 <p>
 My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
 I knew programming by case, and today i am passionate:heartbeat: about everything that comes from 
@@ -23,3 +24,5 @@ Reach me out :arrow_down:
 
 <a href="https://br.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logo"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img></a>
 <a href="https://gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail" width="40" height="40"></img></a>
+
+</div>
