@@ -9,11 +9,11 @@ beginning already learn a little of everything:exclamation:</h3></p>
 <p><h3 align="center">But currently my focus is:</h3></p>
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+  <a href="https://github.com/Arlissonjaques/estudos-java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+  <a href="https://github.com/Arlissonjaques/apagador" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
 </p>
 
@@ -25,7 +25,7 @@ beginning already learn a little of everything:exclamation:</h3></p>
 </p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true" alt="Arlissonjaques" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true" alt="Arlissonjaques"/></p>
 
 
 
