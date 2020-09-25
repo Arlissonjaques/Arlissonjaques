@@ -25,7 +25,7 @@ beginning already learn a little of everything:exclamation:</h3></p>
 </p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true" alt="Arlissonjaques"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true&theme=monokai&icon_color=cc205e" alt="Arlissonjaques"/></p>
 
 
 
