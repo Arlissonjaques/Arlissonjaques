@@ -1,18 +1,12 @@
-# Hi, I´m ~~Goku~~ Arlisson!
+<h1 align="center"> Hi, i´m <strike>Goku</strike> Arlisson!</h1>
 
 
-
-
-
-
-
-<p align="center">
-My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
+<p><h3>My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
 I knew programming by case, and today i am passionate:heartbeat: about everything that comes from 
 this world.:earth_americas: I think that just like everyone at the 
-beginning already learn a little of everything:exclamation:</p>
+beginning already learn a little of everything:exclamation:</h3></p>
 
-<p align="center">But currently my focus is:</p>
+<p><h3 align="center">But currently my focus is:</h3></p>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -23,7 +17,7 @@ beginning already learn a little of everything:exclamation:</p>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
 </p>
 
-<p align="center">Reach me out :arrow_down:</p>
+<p><h3  align="center">Reach me out :arrow_down:</h3></p>
 
 <p align="center">
 <a href="https://br.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logo"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img></a>
