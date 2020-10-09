@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, i´m <strike>Goku</strike> Arlisson!</h1>
+<h1 align="center"> Hi, i´m Arlisson!</h1>
 
 
 <p><h3>My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
