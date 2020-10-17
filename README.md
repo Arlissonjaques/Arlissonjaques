@@ -20,7 +20,7 @@ beginning already learn a little of everything:exclamation:</h3></p>
 <p><h3  align="center">Reach me out :arrow_down:</h3></p>
 
 <p align="center">
-<a href="https://br.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logo"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img></a>
+<a href="https://www.linkedin.com/in/arlissonjaques"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img></a>
 <a href="https://gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail" width="40" height="40"></img></a>
 </p><br><br>
 
