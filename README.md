@@ -1,11 +1,5 @@
 <h1 align="center"> Hi, i´m Arlisson!</h1>
 
-
-<p><h3>My name is Arlisson Jaques:bowtie:, i am a beginner student of programming in Brazil. 
-I knew programming by case, and today i am passionate:heartbeat: about everything that comes from 
-this world.:earth_americas: I think that just like everyone at the 
-beginning already learn a little of everything:exclamation:</h3></p>
-
 <p><h3 align="center">But currently my focus is:</h3></p>
 
 <p align="center">
