@@ -1,11 +1,12 @@
 ## Olá, seja muito bem vindo(a), meu nome é Arlisson!  <a href="https://www.linkedin.com/in/Arlissonjaques"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"></img></a>  <a href="arlissonjaques@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="Email" width="30" height="30"></img></a>
 > Desenvolvendor web Ruby on Rails  iniciante
-
+<br>
 
 ### Pequeno resumo sobre mim:
 
 Sou um cara curioso por tudo que se refere a tecnologia, pois acredito que a mesma pode transformar a vida das pessoas, independe de quem você é ou de onde veio.
 Programar é o que faço quando estou casando, triste, feliz e etc... é o que eu amo fazer!!! Espero um dia poder ajudar as pessoas através do meu código assim como fui ajudado.
+<br><br>
 
 ### Meu foco atualmente:
 <p>
