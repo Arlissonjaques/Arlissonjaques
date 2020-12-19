@@ -1,4 +1,4 @@
-## Olá, seja muito bem vindo(a), meu nome é Arlisson!
+## Olá, seja muito bem vindo(a), meu nome é Arlisson!  <a href="https://www.linkedin.com/in/Arlissonjaques"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"></img></a>  <a href="arlissonjaques@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="Email" width="30" height="30"></img></a>
 > Desenvolvendor web Ruby on Rails  iniciante
 
 
@@ -22,17 +22,7 @@ Programar é o que faço quando estou casando, triste, feliz e etc... é o que e
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-</P>
-
-### Deixa disso, vamo bater um papo, chama ai :arrow_down:
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedib" width="40" height="40"></img>>
-<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail" width="40" height="40"></img>
-<br><br>
-
+</P><br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arlissonjaques&count_private=true&show_icons=true&theme=monokai&icon_color=cc205e" alt="Arlissonjaques"/>
-
-
 
