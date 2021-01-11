@@ -5,7 +5,7 @@
 ### Pequeno resumo sobre mim:
 
 Sou um cara curioso por tudo que se refere a tecnologia, pois acredito que a mesma pode transformar a vida das pessoas, independe de quem você é ou de onde veio.
-Programar é o que faço quando estou casando, triste, feliz e etc... é o que eu amo fazer!!! Espero um dia poder ajudar as pessoas através do meu código assim como fui ajudado.
+Programar é o que faço quando estou cansando, triste, feliz e etc... é o que eu amo fazer!!! Espero um dia poder ajudar as pessoas através do meu código assim como fui ajudado.
 <br><br>
 
 ### Meu foco atualmente:
