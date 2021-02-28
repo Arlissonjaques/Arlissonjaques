@@ -1,4 +1,4 @@
-## Olá, seja muito bem vindo(a), eu sou o Arlisson!  <a href="https://www.linkedin.com/in/Arlissonjaques"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"></img></a>  <a href="arlissonjaques@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="Email" width="30" height="30"></img></a>
+## Olá, eu sou o Arlisson!  <a href="https://www.linkedin.com/in/Arlissonjaques"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"></img></a>  <a href="arlissonjaques@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="Email" width="30" height="30"></img></a>
 > Desenvolvendor web Ruby on Rails  iniciante
 <br>
 
